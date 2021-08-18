@@ -2,8 +2,8 @@
 本php文件用于查看网站所有文章的链接  
 并且带有分行  
 对SEO优化有很大作用  
-This php is used to view links to all articles on the website
-With branches
+This php is used to view links to all articles on the website  
+With branches  
 It plays a great role in SEO optimization
 ## 如何使用 How TO USE
 ### 使用目的 Purpose

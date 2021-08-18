@@ -5,7 +5,6 @@
 SEE ALL Links of your articles  
 ONLY FOR WordPress
 ## 如何使用 How TO USE
-<br></br>
 ### 使用目的 Purpose
 为了更好优化SEO
 便于提交链接简便操作，故发布本php单文件。  
